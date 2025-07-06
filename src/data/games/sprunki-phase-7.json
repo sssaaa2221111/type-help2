@@ -1,0 +1,49 @@
+{
+  "id": 7,
+  "title": "Type Help",
+  "shortDescription": "Type Help is an innovative puzzle mystery game developed by William Rous that challenges players to solve a haunting case from 1936 through a command-line interface. This unique detective experience seamlessly blends text exploration with logical deduction, creating an immersive journey into the unknown.",
+  "iframeSrc": "https://html-classic.itch.zone/html/13977682/index.html",
+  "thumbnail": "/type-help1.png",
+  "aboutImage": "/type-help2.png",
+  "overview": {
+    "title": "Game Overview",
+    "content": "Step into the world of Type Help, a groundbreaking 'static deduction' game that masterfully combines puzzle-solving with narrative storytelling. Drawing inspiration from acclaimed titles like 'The Return of the Obra Dinn,' 'Her Story,' 'Unheard,' and 'The Roottrees are Dead,' this game presents a unique challenge: uncover the truth behind the mysterious deaths of 12 strangers at Galley House. What sets Type Help apart is its innovative approach to investigation - players must decode file naming patterns on an old computer to unlock crucial audio transcripts that piece together this dark tale."
+  },
+  "howToPlay": {
+    "description": "In Type Help, you'll find yourself facing an old laptop's command-line interface, filled with hidden files waiting to be discovered. The game's distinctive mechanic revolves around deducing correct file names, which follow a specific pattern like '02-EN-1-6-7-10'. Each element of these filenames holds crucial meaning: time sequences, location codes, and character identifiers. Success in Type Help requires careful attention to dialogue details, strategic thinking, and methodical investigation. As you unlock more files through correct name deduction, you'll gradually reconstruct the events that led to the tragedy at Galley House. This unique approach transforms traditional puzzle-solving into an engaging detective experience where every correctly guessed filename brings you closer to the truth.",
+    "basicControls": [
+      "Decode time sequences in filenames to establish chronological order",
+      "Interpret location codes to track movement between rooms",
+      "Match character IDs with their appearances in different scenes",
+      "Use contextual clues from unlocked files to deduce new filenames",
+      "Document your findings to build a comprehensive case timeline"
+    ]
+  },
+  "advancedFeatures": "Type Help elevates the detective genre with its sophisticated progression system. The real challenge lies in tracking complex character movements and interactions across multiple time points. Players must maintain detailed notes, create relationship maps, and often revisit earlier deductions as new information comes to light. The game's non-linear investigation style means that each discovery can reshape your understanding of the entire case, making Type Help a truly dynamic and intellectually engaging experience.",
+  "faq": [
+    {
+      "question": "What makes Type Help unique?",
+      "answer": "Type Help revolutionizes mystery gaming by combining command-line investigation with narrative discovery. Instead of traditional puzzle-solving, players must decode filename patterns to unlock crucial evidence, creating a uniquely immersive detective experience that tests both logical reasoning and attention to detail."
+    },
+    {
+      "question": "How does the investigation system work?",
+      "answer": "The core mechanic of Type Help centers around deducing correct file names based on contextual clues. Each filename contains encoded information about time, location, and character presence. Players must carefully analyze dialogue and previously unlocked content to determine the correct naming patterns and progress through the investigation."
+    },
+    {
+      "question": "What skills are needed to succeed?",
+      "answer": "Success in Type Help requires a combination of logical thinking, pattern recognition, and methodical investigation. Players should be comfortable with taking detailed notes, creating timelines, and constantly revising their theories as new evidence emerges. The game rewards thorough analysis and systematic approach to problem-solving."
+    },
+    {
+      "question": "How does the difficulty progress?",
+      "answer": "Type Help begins with tutorial-style cases that introduce the basic mechanics of filename deduction. As players advance, the complexity increases significantly, with later stages requiring intricate pattern recognition and complex logical deductions. The game's difficulty curve is designed to challenge players while maintaining engagement through consistent learning and discovery."
+    }
+  ],
+  "tips": [
+    "Maintain detailed notes of all character movements and interactions",
+    "Create a comprehensive timeline to track events and locations",
+    "Pay special attention to subtle hints in dialogue and transcripts",
+    "Don't hesitate to revisit earlier deductions as new evidence emerges",
+    "Use the community resources when stuck on particularly challenging puzzles",
+    "Develop a systematic approach to testing filename combinations"
+  ]
+}

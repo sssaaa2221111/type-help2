@@ -1,0 +1,22 @@
+{
+  "date": "2024-10-28",
+  "number": 505,
+  "wordGroups": {
+    "audio apps": {
+      "words": ["AUDIBLE", "PANDORA", "SHAZAM", "TIDAL"],
+      "color": "bg-yellow-200"
+    },
+    "indicate": {
+      "words": ["MEAN", "SIGNIFY", "SPELL", "SUGGEST"],
+      "color": "bg-green-200"
+    },
+    "Church of England wedding vow verbs": {
+      "words": ["CHERISH","HAVE", "HOLD", "LOVE"],
+      "color": "bg-blue-200"
+    },
+    "magic words": {
+      "words": ["ABRACADABRA", "PLEASE", "PRESTO", "THANK YOU"],
+      "color": "bg-purple-200"
+    }
+  }
+}

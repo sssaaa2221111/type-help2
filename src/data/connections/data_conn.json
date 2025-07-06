@@ -1,0 +1,34 @@
+ [{
+    "id": "1",
+    "src": "https://image.sprunkiphase.world/aboutsprunkiphase1.png",
+    "alt": "sprunki phase 1",
+    "href": "sprunki-phase-1"
+  },
+
+
+  {
+    "id": "3",
+    "src": "https://image.sprunkiphase.world/aboutsprunkiphase3.png",
+    "alt": "sprunki phase 3",
+    "href": "sprunki-phase-3"
+  },
+  {
+    "id": "4",
+    "src": "https://image.sprunkiphase.world/aboutsprunkiphase4.png",
+    "alt": "sprunki phase 4",
+    "href": "sprunki-phase-4"
+  },
+  {
+    "id": "5",
+    "src": "https://image.sprunkiphase.world/aboutsprunkiphase5.png",
+    "alt": "sprunki phase 5",
+    "href": "sprunki-phase-5"
+  }
+  ,
+  {
+    "id": "7",
+    "src": "https://image.sprunkiphase.world/aboutsprunkiphase7.png",
+    "alt": "sprunki phase 7",
+    "href": "sprunki-phase-7"
+  }
+]

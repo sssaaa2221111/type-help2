@@ -1,0 +1,22 @@
+{
+  "date": "2024-10-29",
+  "number": 506,
+  "wordGroups": {
+    "in pristine condition": {
+      "words": ["MINT", "NEW", "ORIGINAL", "UNUSED"],
+      "color": "bg-yellow-200"
+    },
+    "medical roles": {
+      "words": ["ATTENDING", "FELLOW", "INTERN", "RESIDENT"],
+      "color": "bg-green-200"
+    },
+    "singular noun in a famous Julius Caesar line": {
+      "words": ["COUNTRYMAN", "EAR", "FRIEND", "ROMAN"],
+      "color": "bg-blue-200"
+    },
+    "____ square": {
+      "words": ["PERFECT", "POCKET", "TIMES", "TOWN"],
+      "color": "bg-purple-200"
+    }
+  }
+}

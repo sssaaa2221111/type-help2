@@ -1,0 +1,22 @@
+{
+  "date": "2024-10-26",
+  "number": 503,
+  "wordGroups": {
+    "Fluster": {
+      "words": ["Faze", "Rattle", "Ruffle", "Throw"],
+      "color": "bg-yellow-200"
+    },
+    "Series Of Messages": {
+      "words": ["Chain", "Chat", "Conversation", "Thread"],
+      "color": "bg-green-200"
+    },
+    "Places To Lie/Sit That Move": {
+      "words": ["Cradle", "Hammock", "Rocker", "Swing"],
+      "color": "bg-blue-200"
+    },
+    "Cylinder-Shaped Things": {
+      "words": [ "Can", "Roller", "Silo", "Spool"],
+      "color": "bg-purple-200"
+    }
+  }
+}

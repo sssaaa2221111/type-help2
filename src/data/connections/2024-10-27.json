@@ -1,0 +1,22 @@
+{
+  "date": "2024-10-27",
+  "number": 504,
+  "wordGroups": {
+    "sassy": {
+      "words": ["CUTE", "FRESH", "SMART", "WISE"],
+      "color": "bg-yellow-200"
+    },
+    "ambience": {
+      "words": ["AIR", "FEELING", "MOOD", "QUALITY"],
+      "color": "bg-green-200"
+    },
+    "units": {
+      "words": ["BAR", "BEL", "LUX", "MOLE"],
+      "color": "bg-blue-200"
+    },
+    "the little ____": {
+      "words": ["MERMAID", "PRINCE", "RASCALS", "TRAMP"],
+      "color": "bg-purple-200"
+    }
+  }
+}
