@@ -35,19 +35,20 @@ export default async function LocaleLayout({
    
 
     {/* <!-- Google tag (gtag.js) --> */}
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-222LTKDS1Z"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-ESQN0RTGRF"></script>
       <script
           dangerouslySetInnerHTML={{
             __html: `
                   window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                   gtag('js', new Date());
-                  gtag('config', 'G-222LTKDS1Z');
+                  gtag('config', 'G-ESQN0RTGRF');
                     `,
           }}
 
       />
       
+
 
 
     </head>
